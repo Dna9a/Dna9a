@@ -1,5 +1,5 @@
 ## Hi there 👋
-## my name is YOUSSEF ABIED 🐪
+## My name is YOUSSEF ABIED 🐪
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/yoabied" alt="yoabied's 42 stats" /></a>
