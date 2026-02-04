@@ -1,8 +1,12 @@
 ## Hi there 👋
 ## My name is YOUSSEF ABIED 🐪
 
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FBE0C3&height=120&section=header" />
+</a>
+
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/yoabied" alt="yoabied's 42 stats" /></a>
+  <img src="https://badge.mediaplus.ma/darkgray/yoabied" alt="yoabied's 42 stats" /></a>
 <p>
 
 
