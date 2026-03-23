@@ -1,4 +1,4 @@
-## Hi there 👋 - My name is YOUSSEF ABIED 🐪
+## Hi there 👋 - my name is YOUSSEF ABIED 🐪
 
 
 <a href="#">
