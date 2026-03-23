@@ -1,5 +1,5 @@
-## Hi there 👋
-## My name is YOUSSEF ABIED 🐪
+## Hi there 👋 - My name is YOUSSEF ABIED 🐪
+
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=454673&height=120&section=header" />
