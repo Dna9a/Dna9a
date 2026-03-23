@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/darkgray/yoabied" alt="yoabied's 42 stats" /></a>
+  <img src="https://badge.mediaplus.ma/darkblue/yoabied" alt="yoabied's 42 stats" /></a>
 <p>
 
 
