@@ -48,14 +48,6 @@ I'm a 42 student learning software engineering through peer-to-peer education an
 [![Instagram](https://img.shields.io/badge/Instagram-youuss_eeef-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/youuss_eeef/)
 
 
-----
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app" />
-</div>
-
----
-
 </div>
 
 <div align="center">
