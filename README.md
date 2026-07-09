@@ -16,6 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-youssef--abied-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-abied)
 
 </div>
+</div>
 
 ---
 
@@ -96,6 +97,7 @@ I'm a student at **1337 School** (42 Network), learning software engineering thr
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%"/>
 </div>
+
 
 <!-- ## Hi there 👋 - my name is YOUSSEF ABIED 🐪💙
 
