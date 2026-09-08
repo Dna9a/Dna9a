@@ -64,6 +64,7 @@ I'm a student at **1337 School** (42 Network), learning software engineering thr
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-josephleblanc-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/josephleblanc)
 [![Instagram](https://img.shields.io/badge/Instagram-youuss__eeef-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/youuss_eeef/) -->
+</div>
 
 ### Github activity
  
@@ -78,7 +79,7 @@ I'm a student at **1337 School** (42 Network), learning software engineering thr
 <img src="https://github-readme-trophies.vercel.app/?username=dna9a&theme=onedark&no-frame=true&row=1&column=6" />
 </div> -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dna9a&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=dna9a&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </div>
 
 
@@ -130,6 +131,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
-
-
