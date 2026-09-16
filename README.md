@@ -13,6 +13,7 @@
 
 [![42 Profile](https://img.shields.io/badge/42%20Profile-yoabied-0E2580?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/yoabied)
 [![GitHub](https://img.shields.io/badge/GitHub-dna9a-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dna9a)
+[![GitHub](https://img.shields.io/badge/GitHub-ddna9a-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ddna9a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-youssef--abied-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-abied)
 
 </div>
