@@ -59,6 +59,10 @@ Just a random person, student still learnign through peer-to-peer education and 
 
 ### 🤝 Get in Touch or find me elsewhere
 
+<table>
+<tr>
+<td valign="middle" width="70%">
+
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-josephleblanc-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/josephleblanc)
@@ -67,6 +71,13 @@ Just a random person, student still learnign through peer-to-peer education and 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Dna9a-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Dna9a) 
 </div>
+
+</td>
+<td valign="middle" width="30%">
+<img src="me%20as%20hellome.gif" width="100%" alt="hello gif" />
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%"/>
