@@ -4,16 +4,13 @@
 
 <h1 align="center">Youssef Abied</h1>
 
-<!-- <div align="center"> -->
-
 [![42 Profile](https://img.shields.io/badge/42%20Profile-yoabied-0E2580?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/yoabied)
 [![GitHub](https://img.shields.io/badge/GitHub-dna9a-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dna9a)
 [![GitHub](https://img.shields.io/badge/GitHub-ddna9a-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ddna9a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-youssef--abied-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-abied)
 
-<!-- </div> -->
-
 </div>
+
 <p align="center">
   <!-- <b>Student at 1337 School</b> · Building from the ground up, one project at a time 🐪 -->
   <b>just </b> 🐪
@@ -25,20 +22,18 @@
 Just a random person, student still learnign through peer-to-peer education and hands-on projects at the 42 methodology 1337.
 
 - 🌱 Currently at working on both of **Callmemaybe**, **Codexion** and **fly-in**
-- 📫 Best way to reach me: is by social media or just **LinkedIn** (below)
+- 📫 Best way to reach me: is by social media or just **LinkedIn** (above)
 
 ---
 
 <!-- ### Tech Stack
 
 <div align="center">
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 </div>
 
 --- -->
@@ -48,11 +43,6 @@ Just a random person, student still learnign through peer-to-peer education and 
 <div align="center">
   <img src="https://badge.mediaplus.ma/darkblue/yoabied" alt="yoabied's 42 stats" />
 </div>
-
-<!-- <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dna9a&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dna9a&layout=compact&theme=github_dark&hide_border=true" />
-</div> -->
 
 ---
 
@@ -64,16 +54,16 @@ Just a random person, student still learnign through peer-to-peer education and 
 
 <div align="center">
 <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=dna9a&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ### 🤝 Get in Touch or find me elsewhere
- 
+
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-josephleblanc-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/josephleblanc)
 [![Instagram](https://img.shields.io/badge/Instagram-youuss__eeef-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/youuss_eeef/)
-</div>
-<div align="center">
+
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Dna9a-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Dna9a) 
 </div>
